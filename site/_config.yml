@@ -21,9 +21,11 @@
 title: STOP USING CSDN!
 description: >- # this means to ignore newlines until "baseurl:"
   STOP USING CSDN! 停止、拒绝、抵制使用CSDN！
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/CSDN" # the subpath of your site, e.g. /blog
+url: "https://StopUsingThe.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  StopUsingThe
+timezone: Asia/Shanghai
+lsi: true
 
 # Build settings
 theme: minima
