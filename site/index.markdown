@@ -27,7 +27,9 @@ GitCode是CSDN旗下的“开源代码托管平台”，而其内大量仓库均
 且**从未被授权甚至告知所有者**，并将盗窃行为美其名曰“镜像”。
 
 ![GitCode issues]({{site.url}}/assets/gitcode_issues_1.png)
+
 2024年6月26日，GitCode官方仓库的issues出现大量被盗窃仓库的人出现并指责其行为。
 
 ![GitCode隐藏仓库的手段]({{site.url}}/assets/gitcode_404.png)
+
 然而，
