@@ -5,6 +5,12 @@
 layout: home
 ---
 
+<div align="center">
+  
+![停止使用CSDN](/assets/no-csdn.png)
+
+</div>
+
 # 🚫停止使用CSDN！
 
 CSDN上充斥着大量的**低质量**文章，**抄袭、盗版**泛滥横行。
