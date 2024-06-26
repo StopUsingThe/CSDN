@@ -6,9 +6,7 @@ layout: home
 ---
 
 <div align="center">
-  
-![停止使用CSDN](/assets/no-csdn.png)
-
+  <img src="/assets/no-csdn.png" alt="停止使用CSDN" />
 </div>
 
 # 🚫停止使用CSDN！
